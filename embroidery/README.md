@@ -3,10 +3,10 @@ Embroidery Files
 
 shack_logo.pes
 --------------
-Number of stitches: 3097
+Number of stitches: 2586
 
- * green: 1827
- * black: 1270
+ * green: 1280
+ * black: 1306
 
 shack_logo_collar.pes
 ---------------------
@@ -17,14 +17,15 @@ Number of stitches: 2269
 
 shack_logo_large.pes (multi position hoop)
 ------------------------------------------
-Number of stitches: 5901
+Number of stitches: 5021
 
- * green: 3738
- * black: 2163
+ * green: 2818
+ * black: 2203
 
 shack_logo_large_text.pes (multi position hoop)
 -----------------------------------------------
-Number of stitches: 7735
+Number of stitches: 6615
 
- * green: 2140
- * black: 5595
+ * green: 2099
+ * shack: 1818
+ * text: 2698
