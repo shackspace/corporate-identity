@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="632.34003"
-   height="284.44"
+   width="588.48541"
+   height="278.6105"
    id="svg5279"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="logo_shack_darkbg.svg"
-   inkscape:export-filename="/home/gjehle/Desktop/expose/images/logo_shack_darkbg_highres.png"
-   inkscape:export-xdpi="299.95779"
-   inkscape:export-ydpi="299.95779">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="stuttgart_hackerspace__bg_white__font.svg"
+   inkscape:export-filename="/home/gjehle/Desktop/expose/images/logo_shack_large.png"
+   inkscape:export-xdpi="46.400002"
+   inkscape:export-ydpi="46.400002">
   <defs
      id="defs5281">
     <pattern
@@ -89,43 +89,47 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="219.0813"
-     inkscape:cy="67.113714"
+     inkscape:zoom="1.4"
+     inkscape:cx="406.53042"
+     inkscape:cy="119.67362"
      inkscape:document-units="px"
-     inkscape:current-layer="g2952"
+     inkscape:current-layer="g9056"
      showgrid="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="574"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
-     units="mm">
+     units="mm"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2">
     <sodipodi:guide
        orientation="1,0"
-       position="1671.7972,1272.79"
+       position="1666.3114,1269.8752"
        id="guide9092" />
     <sodipodi:guide
        orientation="1,0"
-       position="-122.73884,2837.8004"
+       position="-128.22467,2834.8856"
        id="guide9135" />
     <sodipodi:guide
        orientation="0,1"
-       position="-122.07593,2837.2322"
+       position="-127.56176,2834.3174"
        id="guide9137" />
     <sodipodi:guide
        orientation="1,0"
-       position="4089.5972,-108.34099"
+       position="4084.1114,-111.25573"
        id="guide9139" />
     <sodipodi:guide
        orientation="0,1"
-       position="4124.9525,-141.67603"
+       position="4119.4667,-144.59077"
        id="guide9141" />
     <sodipodi:guide
        orientation="1,0"
-       position="31.423039,78.534783"
+       position="25.937208,75.620043"
        id="guide2950" />
   </sodipodi:namedview>
   <metadata
@@ -144,7 +148,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-122.73881,-625.23598)">
+     transform="translate(-128.22464,-628.15073)">
     <g
        id="g6661"
        transform="translate(465.63,-1322.79)">
@@ -155,17 +159,24 @@
            sodipodi:linespacing="125%"
            id="text2892"
            y="2220.7852"
-           x="-345.93478"
-           style="font-size:56.15565871999999814px;font-style:normal;font-weight:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             style="font-size:56.15565871999999814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PrimaSans BT;-inkscape-font-specification:PrimaSans BT Bold;fill:#ffffff;fill-opacity:1"
+           x="-343.36337"
+           style="font-size:56.15565872px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"
+           inkscape:export-filename="/home/gjehle/Development/corporate-identity/logo/stuttgart_hackerspace__bg_black__raster.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-size:56.15565871999999814px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;fill:#ffffff;fill-opacity:1"
              y="2220.7852"
-             x="-345.93478"
+             x="-343.36337"
              id="tspan2894"
-             sodipodi:role="line">stuttgart hackerspace</tspan></text>
+             sodipodi:role="line"
+             dx="0 -2.1428571 -1.4285713 -2.1428571 0.71428555 -1.4285715 -3.5714285 -5 2.1428571 0 0 -3.5714283 -3.5714283 -2.8571427 -2.8571427 -2.8571427 0 -2.1428571 -2.8571427 -3.5714283 -2.8571427">stuttgart hackerspace</tspan></text>
         <g
            transform="matrix(0.15966127,0,0,0.15966127,-362.70377,1997.7357)"
-           id="g9056">
+           id="g9056"
+           inkscape:export-filename="/home/gjehle/Development/corporate-identity/logo/stuttgart_hackerspace__bg_black__raster.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
           <g
              id="g6586"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -173,23 +184,28 @@
             <path
                id="path6588"
                d="m 602.75,-6011.9375 0,62.1875 14.90625,0 0,-29.0938 21.25,29.0938 18.78125,0 -25.21875,-31.6875 22.34375,-30.4687 -17.25,0 -19.90625,29.2187 0,-29.25 -14.90625,0 z"
-               style="font-size:124.27999878000002809px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+               style="font-size:124.27999878000002809px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+               inkscape:connector-curvature="0" />
             <path
                id="path6590"
                d="m 399.78121,-6032.7628 0,83.125 14.9688,0 0,-31.6563 c 0,-12.8378 3.9937,-19.0625 12.5937,-19.0625 8.7248,0 12.7188,5.8505 12.7188,18.9375 l 0,31.7813 14.9375,0 0,-35.1563 c 0,-7.4783 -0.7554,-11.949 -2.625,-15.9375 -3.7392,-7.7276 -12.8378,-13.3437 -21.5625,-13.3437 -6.2319,0 -11.4509,2.106 -16.0625,6.3437 l 0,-25.0312 -14.9688,0 z"
-               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+               inkscape:connector-curvature="0" />
             <path
                id="path6592"
                d="m 372.31251,-6014.0753 c -11.5914,0 -20.8125,8.5935 -20.8125,19.3125 0,5.3594 1.8858,9.8535 5.625,13.2187 3.2406,2.8667 4.6143,3.4756 11.7187,5.8438 8.3508,2.742 10.5938,4.5105 10.5938,8.125 0,3.6145 -2.8862,6.3437 -6.75,6.3437 -4.3624,0 -6.7231,-2.36 -8.2188,-7.9687 l -15.2187,0 c 0.4986,5.1102 1.0043,7.1024 2.5,10.0937 3.4899,6.8552 11.3371,11.5938 19.8125,11.5938 12.5885,0 22.8125,-9.8472 22.8125,-21.8125 0,-5.6088 -1.8553,-9.9785 -5.8438,-13.3438 -2.4927,-2.1188 -5.9846,-3.5988 -11.4687,-5.3437 l -4.25,-1.375 c -4.8609,-1.6203 -6.3438,-2.8833 -6.3438,-5.75 0,-2.9914 2.4782,-5.2188 5.7188,-5.2188 3.116,0 5.2518,1.8539 5.875,5.3438 l 14.6875,0 c -0.4986,-10.8436 -9.3447,-19.0625 -20.4375,-19.0625 z"
-               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+               inkscape:connector-curvature="0" />
             <path
                id="path6594"
                d="m 491.96875,-6014.0625 c -17.6987,0 -31.15625,14.2104 -31.15625,32.9063 0,19.319 12.83185,33.6562 30.28125,33.6562 7.7276,0 17.2009,-4.2347 21.8125,-9.7188 l 0,7.5938 13.71875,0 0,-62.3125 -13.71875,0 0,7.8437 c -4.6116,-5.858 -13.0852,-9.9687 -20.9375,-9.9687 z m 1.28125,13.7187 c 0.32212,-0.017 0.64157,0 0.96875,0 10.5943,0 18.3125,8.2197 18.3125,19.3126 0,11.4668 -7.7182,19.8124 -18.3125,19.8124 -10.345,0 -18.4375,-8.4684 -18.4375,-19.1874 0,-10.9877 7.48297,-19.4227 17.46875,-19.9376 z"
-               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+               inkscape:connector-curvature="0" />
             <path
                id="path6596"
                d="m 565.62501,-6014.0753 c -18.1973,0 -33.0313,14.834 -33.0313,33.0312 0,18.4466 14.959,33.5313 33.1563,33.5313 5.9827,0 12.7027,-2.0094 17.9375,-5.25 6.3566,-3.9885 10.2274,-8.9614 13.2187,-17.1875 l -16.8125,0 c -3.4898,5.7334 -8.235,8.7187 -13.8437,8.7187 -10.8436,0 -18.6875,-8.345 -18.6875,-19.5625 0,-11.3421 7.5928,-19.5625 18.0625,-19.5625 6.6058,0 10.7296,2.6126 14.4687,9.0938 l 16.8125,0 c -1.7449,-5.4841 -2.852,-7.4785 -5.7187,-10.8438 -6.3566,-7.6029 -15.716,-11.9687 -25.5625,-11.9687 z"
-               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+               style="font-size:124.63899993999999083px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+               inkscape:connector-curvature="0" />
           </g>
           <g
              transform="matrix(8.77199,0,0,8.77199,3931.54,-4128.01)"
@@ -197,16 +213,19 @@
             <path
                id="path6600"
                d="m -391.59375,529.375 0,15 8.34375,0 c 0.67817,-5.03208 3.09516,-9.53624 6.65625,-12.96875 l 0,-2.03125 -15,0 z"
-               style="fill:#00bc02;fill-opacity:1;stroke:none" />
+               style="fill:#00bc02;fill-opacity:1;stroke:none"
+               inkscape:connector-curvature="0" />
             <path
                id="path6602"
                d="m -391.59375,549.375 0,15 15,0 0,-1.28125 c -0.0342,-0.03 -0.0593,-0.0633 -0.0937,-0.0937 a 3.3503349,3.3503349 0 0 1 -0.0312,-0.0312 c -3.91804,-3.52613 -6.1614,-8.28325 -6.625,-13.59375 l -8.25,0 z"
-               style="fill:#00bc02;fill-opacity:1;stroke:none" />
+               style="fill:#00bc02;fill-opacity:1;stroke:none"
+               inkscape:connector-curvature="0" />
             <path
                sodipodi:nodetypes="cccccccc"
                id="path6604"
                d="m -391.59375,569.375 0,15 8.71875,0 c -1.60424,-3.2261 -2.30414,-6.00856 -2.8125,-11.21875 -0.18823,-1.86079 1.47347,-3.69332 3.34375,-3.6875 l 0.0245,0 0,-0.0937 -9.27455,0 z"
-               style="fill:#00bc02;fill-opacity:1;stroke:none" />
+               style="fill:#00bc02;fill-opacity:1;stroke:none"
+               inkscape:connector-curvature="0" />
             <rect
                y="509.37891"
                x="-291.5972"
